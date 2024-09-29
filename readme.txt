@@ -3,4 +3,6 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick MAIN fix.
-test1
+fix 101
+test1 merge
+main branch
